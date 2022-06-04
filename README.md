@@ -2,7 +2,7 @@
 
 Here's the feature's included in this project
 
-- <a href="#" <img src="https://cdn-icons-png.flaticon.com/512/2210/2210197.png" width = "15px" /> </a/>
+- <img src="https://cdn-icons-png.flaticon.com/512/2210/2210197.png" width = "15px" /> Landing Page
 - 👨‍👩‍👧‍👦 Login Page, Sign UI
 - 🛒 Cart and Checkout Page
 - 📝 Sign up function with Google Authentication

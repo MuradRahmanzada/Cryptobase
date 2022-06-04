@@ -1,10 +1,25 @@
-### Features
+# Cryptobase Front End clone made with React JS
+H! This a Crytobase front end clone that i´ve built using ReactJS.  
+__You can visit the website clicking [here!](https://disneyplus-clone-bbf92.web.app/)__
 
-Here's the feature's included in this project
+## Features
+* List of top ten coins
+* Trending Coins
+* Night Mode Function
+* Sign up function with Google Authentication
+* Coin watchlist
+* 
 
-- 👨‍👩‍👧‍👦 Sign In, Sign Up Page
-- ⭐ Watchlist
-- 📝 Sign up function with Google Authentication
+## Libraries/Technologies used
+* React JS
+* Tailwind CSS
+* React Router
+* Cryptocurrency API
+* Axios
+* React Icons
+* Firebase
+
+Authenticate using firebase and firestore so we can save user specific data!
 
 How to register? 
 
@@ -14,7 +29,7 @@ How to register?
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://cryptobase-01.netlify.app/).
 
 ## Available Scripts
 

@@ -2,9 +2,8 @@
 
 Here's the feature's included in this project
 
-- <img src="https://cdn-icons-png.flaticon.com/512/3867/3867687.png" width = "16px" />   Landing Page
-- 👨‍👩‍👧‍👦 Login Page, Sign UI
-- 🛒 Cart and Checkout Page
+- 👨‍👩‍👧‍👦 Sign In, Sign Up Page
+- ⭐ Watchlist
 - 📝 Sign up function with Google Authentication
 
 How to register? 

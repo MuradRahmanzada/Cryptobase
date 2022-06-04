@@ -1,3 +1,18 @@
+### Features
+
+Here's the feature's included in this project
+
+- <a href="#" <img src="https://cdn-icons-png.flaticon.com/512/2210/2210197.png" width = "15px" /> </a/>
+- 👨‍👩‍👧‍👦 Login Page, Sign UI
+- 🛒 Cart and Checkout Page
+- 📝 Sign up function with Google Authentication
+
+How to register? 
+
+- Fill in the email and password fields and click the "Create Your Amazon Account" button. Enter the email and password you entered when registering and click the "Sign In" button.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

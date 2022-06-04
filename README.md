@@ -8,7 +8,6 @@ __You can visit the website clicking [here!](https://disneyplus-clone-bbf92.web.
 * Night Mode Function
 * Sign up function with Google Authentication
 * Coin watchlist
-* 
 
 ## Libraries/Technologies used
 * React JS
